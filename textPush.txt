@@ -1,1 +1,2 @@
 push
+a toto som pridal
