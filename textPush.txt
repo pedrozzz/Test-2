@@ -1,2 +1,2 @@
 push
-a toto som pridal
+zmena
